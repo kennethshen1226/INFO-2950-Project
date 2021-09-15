@@ -1,0 +1,12 @@
+Github link: https://github.com/kennethshen1226/INFO-2950-Project 
+
+Dataset 1: PUDB single-family datasets includes records about single-family and multifamily montage acquisitions. The single-family datasets include data about the borrower’s income, race, gender, property location, loan-to-value ratio, debt-to-equity ratio, as well as mortgage note age and affordability. The multifamily datasets include data about unpaid principal balance, type of seller from which the mortgage was acquire, property size, as well as the number and affordability of units. Both groups of datasets have indicators of whether purchases are from underserved (determined by median income and minority percentage of population) communities. Dictionary (https://www.fhfa.gov/DataTools/Downloads/Documents/Enterprise-PUDB/Single-Family_Census_Tract_File_/2019_Single_Family_Census_Tract_File.pdf) Data (https://www.fhfa.gov/DataTools/Downloads/Pages/Public-Use-Databases.aspx) 
+
+Dataset 2: Airbnb publicly available dataset for the last 12 months for different locations around the world. Dictionary (Inside Airbnb Data Dictionary, https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit?usp=sharing), Data (http://insideairbnb.com/get-the-data.html)
+
+Dataset 3: IMDb dataset has movie titles, genres, start and end years, ratings, episode numbers, runtimes, and production crew. Data (https://datasets.imdbws.com/)
+
+Questions for reviewers:
+
+1. Overall, how many analysis (E.g. The effect of ___ on ___) should we have?
+2. Do you think one of these datasets is particularly fit for this project?
